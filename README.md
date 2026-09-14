@@ -110,14 +110,4 @@ Summary of performance metrics across tested classification algorithms:
 
 *(Note: Replace sample metrics above with your notebook's exact test scores).*
 
----
 
-## 🔮 Future Improvements
-- Build an interactive web frontend using **Streamlit** or **Flask** for real-time predictions.
-- Integrate model explainability frameworks (**SHAP** or **LIME**).
-- Benchmark advanced gradient boosting algorithms like **XGBoost** and **LightGBM**.
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
